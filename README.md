@@ -25,8 +25,6 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://imgur.com/gallery/o9EltFq' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
 ## Notes
 - [ ] To implement the split bill function, I need to strengthen my knowledge about IBActions and did various test
 - [ ] I tried to implement the settings page but couldn't since the push segue is depricated after iOS 8. I believe there should be an alternative for it but couldn't find one. 
