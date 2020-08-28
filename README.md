@@ -10,14 +10,14 @@ Time spent: **7** hours spent in total
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [ ] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
 
 
 The following **additional** features are implemented:
 
 - [x] You can slide the "Split between" to decide how many people are you splitting the bill with. After you done sliding, the amount for each person will appear in the final row.
-- [ ] I also added a little cute tip jar to make the app looks more interesting
+- [x] I also added a little cute tip jar to make the app looks more interesting
 
 ## Video Walkthrough
 
