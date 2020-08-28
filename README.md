@@ -23,7 +23,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://giphy.com/embed/W1ZuKrt5hWhUCzo81k' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/trangdoan982/Tip-Calculator/blob/master/ezgif.com-video-to-gif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Notes
