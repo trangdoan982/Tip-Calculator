@@ -16,7 +16,7 @@ The following **required** functionality is complete:
 
 The following **additional** features are implemented:
 
-- [ ] You can slide the "Split between" to decide how many people are you splitting the bill with. After you done sliding, the amount for each person will appear in the final row.
+- [x] You can slide the "Split between" to decide how many people are you splitting the bill with. After you done sliding, the amount for each person will appear in the final row.
 - [ ] I also added a little cute tip jar to make the app looks more interesting
 
 ## Video Walkthrough
