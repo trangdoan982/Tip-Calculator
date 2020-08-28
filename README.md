@@ -24,7 +24,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='https://imgur.com/gallery/o9EltFq' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/o9EltFq"><a href="//imgur.com/a/o9EltFq">Trang Doan _ Codepath Application</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<div style="width:100%;height:0;padding-bottom:216%;position:relative;"><iframe src="https://giphy.com/embed/W1ZuKrt5hWhUCzo81k" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/W1ZuKrt5hWhUCzo81k">via GIPHY</a></p>
 
 ## Notes
 - [ ] To implement the split bill function, I need to strengthen my knowledge about IBActions and did various test
